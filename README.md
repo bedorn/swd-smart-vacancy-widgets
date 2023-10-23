@@ -1,0 +1,1 @@
+# swd-smart-vacancy-widgets
